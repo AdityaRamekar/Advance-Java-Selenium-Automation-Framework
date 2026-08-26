@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;New folder&apos; to &apos;SeleniumAdvanceFramework&apos;&#x0D;&#x0A;- Original element: &apos;New folder&apos;&#x0D;&#x0A;- Renamed element: &apos;New folder&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;New folder&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=New folder" name="SeleniumAdvanceFramework" references="true" stamp="1787735237642" version="1.0"/>
+</session>
